@@ -1,2 +1,4 @@
 # hello-world
-Just Testing im beginner
+Hi human!
+
+im just testing a github for my esperions
